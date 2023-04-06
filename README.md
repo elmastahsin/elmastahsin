@@ -15,6 +15,7 @@
 <img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api?username=elmastahsin&show_icons=true&theme=radical" />
 <img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmastahsin&layout=compact" />
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmastahsin&" alt="elmastahsin" /></p>
 
 
 <!--
