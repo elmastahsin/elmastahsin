@@ -1,9 +1,11 @@
 <h1 align="center"> Hi there I'm Tahsin👋</h1>
-<h3 align="center"> A passionate backend developer👋</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on Spring Framework
-- 🌱 I’m currently learning C++
-- 💬 Ask me about Java and C++
+<h3 align="center"> A passionate Sophomore Computer Engineering student at METU, and Jr. backend Java developer👋</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmastahsin&label=Profile%20views&color=0e75b6&style=flat" alt="elmastahsin" /> </p>
+
+- 🔭 I’m currently working on **Spring Framework**
+- 🌱 I’m currently learning C++ 
+- 💬 Ask me about **Java** **C++**
 - 📫 How to reach me: **elmas.tahsin@metu.edu.tr**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
