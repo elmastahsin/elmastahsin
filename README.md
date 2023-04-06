@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Spring Framework**
 - 🌱 I’m currently learning C++ 
-- 💬 Ask me about **Java** **C++**
+- 💬 Ask me about **Java** and **C++**
 - 📫 How to reach me: **elmas.tahsin@metu.edu.tr**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
