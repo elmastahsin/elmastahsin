@@ -22,7 +22,7 @@
 
 <img align="left" width= "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmastahsin&layout=compact" />
 
-<img align="left" width= "50%" src="https://github-readme-streak-stats.herokuapp.com?user=elmastahsin&theme=transparent)](https://git.io/streak-stats">
+<img align="left" width= "50%" src="https://github-readme-streak-stats.herokuapp.com?user=elmastahsin&theme=transparent">
 
 
 
