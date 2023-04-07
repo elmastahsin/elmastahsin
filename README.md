@@ -25,7 +25,8 @@
 <img align="left" width= "50%" src="https://github-readme-streak-stats.herokuapp.com?user=elmastahsin&theme=transparent">
 
 
-
+![](https://github.com/elmastahsin/elmastahsin/blob/output/github-snake.gif)
+<br/>
 <!--
 **elmastahsin/elmastahsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
