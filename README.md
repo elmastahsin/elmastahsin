@@ -21,11 +21,12 @@
 <p><img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api?username=elmastahsin&show_icons=true&theme=transparent" /></p>
 <p><img align="left" width= "50%" src="https://github-readme-streak-stats.herokuapp.com?user=elmastahsin&theme=transparent"></p>
 
-<p><img align="left" width= "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmastahsin&layout=compact" /></p>
 
 
 ![](https://github.com/elmastahsin/elmastahsin/blob/output/github-snake.gif)
 <!--
+
+<p><img align="left" width= "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmastahsin&layout=compact" /></p>
 **elmastahsin/elmastahsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
