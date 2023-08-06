@@ -22,11 +22,11 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=elmastahsin&theme=transparent"/></p>
 
-![](https://github.com/elmastahsin/elmastahsin/blob/output/github-snake.gif)
+
 <br/>
 
 <!--
-
+![](https://github.com/elmastahsin/elmastahsin/blob/output/github-snake.gif)
 ![contributions](https://user-images.githubusercontent.com/99393019/206873716-60aacef7-7215-4d39-9f42-f09b568f2203.svg)
 
 ![](https://github.com/elmastahsin/elmastahsin/blob/output/github-snake.gif)
