@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmastahsin&label=Profile%20views&color=0e75b6&style=flat" alt="elmastahsin" /> </p>
 
-- 🔭 I’m currently working on **Spring Framework**
-- 🌱 I’m currently learning C++ 
+- 🔭 I’m currently working on **.NET Framework**
+- 🌱 I’m currently learning C#
 - 💬 Ask me about **Java** and **C++**
 - 📫 How to reach me: **elmas.tahsin@metu.edu.tr**
 <h3 align="left">Connect with me:</h3>
