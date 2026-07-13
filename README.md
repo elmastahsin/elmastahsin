@@ -1,74 +1,38 @@
-<div align="center">
+### Tahsin Elmas
 
-# Tahsin Elmas
+Backend engineer & AI systems builder. Currently focused on NLP/ML systems and B2B AI education.
 
-Backend Engineer • AI Enthusiast • Computer Engineering @ METU
+```
+stack    →  Java/Spring · Python · ML/NLP · Go (learning) · React Native (learning)
+domain   →  AI systems · backend architecture · on-premise LLM deployment
+status   →  graduating METU CS · open to full-time roles
+```
+
+---
+
+**What I'm building**
+
+- On-premise email categorization with Turkish BERT + Qwen 2.5 14B (RAG architecture)
+- Portfolio tracker for crypto/FX/gold (React Native + Spring Boot)
+- B2B AI training platform for enterprise teams in Turkey
+
+---
+
+**Selected work**
+
+| Project | Stack | Notes |
+|---|---|---|
+| Email AI Classifier | Java · Python · vLLM · RabbitMQ | Production at ITKraft |
+| MTTR Prediction | LightGBM · Python | R²~0.196, 63K records |
+| GURME (METU Demo Day) | — | Top 5 finalist, AA grade |
+
+---
 
 <p>
-<a href="https://linkedin.com/in/tahsinelmas">LinkedIn</a> •
-<a href="mailto:elmas.tahsin@metu.edu.tr">Email</a> •
-<a href="https://github.com/elmastahsin">GitHub</a>
+  <a href="https://linkedin.com/in/tahsinelmas">LinkedIn</a> ·
+  <a href="mailto:elmas.tahsin@metu.edu.tr">Email</a> ·
+  <a href="https://www.hackerrank.com/tahsinelmas">HackerRank</a>
 </p>
 
-</div>
-
----
-
-### About
-
-I enjoy building backend systems, designing scalable architectures, and applying machine learning to real-world engineering problems.
-
-Currently focused on:
-
-- Java & Spring Boot
-- Machine Learning
-- Distributed Systems
-- Cloud Technologies
-- Go
-
----
-
-### Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,go,cpp,postgres,docker,git,linux,react&perline=10"/>
-
-</p>
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 📈 Asset Tracker | Personal finance & precious metals tracking app |
-| ⚡ MTTR Prediction | LightGBM model for energy infrastructure |
-| 📱 Expense Tracker | React Native + Spring Boot |
-| 🤖 AI Research | ML & Data Science experiments |
-
----
-
-### GitHub
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=elmastahsin&theme=transparent&hide_border=true&show_icons=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmastahsin&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=elmastahsin&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=elmastahsin&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github" height="130"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=elmastahsin&theme=transparent&hide_border=true" height="130"/>
