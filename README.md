@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Tahsin Elmas</h1>
 
 <p align="center">
@@ -60,4 +60,3 @@ Computer Engineering Student @ METU • Backend Developer • AI Enthusiast
 ---
 
 > *"Building scalable backend systems while exploring AI and machine learning."*
-```
