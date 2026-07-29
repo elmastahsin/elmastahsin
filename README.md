@@ -27,7 +27,7 @@ status     B.Sc. Computer Engineering, METU (2026)
 
 [LinkedIn](https://linkedin.com/in/tahsinelmas) · [HackerRank](https://www.hackerrank.com/tahsinelmas) · [elmas.tahsin@metu.edu.tr](mailto:elmas.tahsin@metu.edu.tr)
 
-<br>
+<!-- <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=elmastahsin&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github&hide=issues" height="140"/>
-<img src="https://streak-stats.demolab.com?user=elmastahsin&theme=transparent&hide_border=true" height="140"/>
+<img src="https://streak-stats.demolab.com?user=elmastahsin&theme=transparent&hide_border=true" height="140"/> -->
