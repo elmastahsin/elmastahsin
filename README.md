@@ -6,7 +6,7 @@ Backend and AI systems engineer. I build production ML/LLM systems and the backe
 core       Java · Spring Boot · Python · PostgreSQL · RabbitMQ
 ai/ml      NLP · Turkish BERT · LLM serving (vLLM / Ollama) · LightGBM · RAG
 learning   Go · React Native
-status     B.Sc. Computer Engineering, METU (2026) · open to remote and EU roles
+status     B.Sc. Computer Engineering, METU (2026) 
 ```
 
 ### Selected work
