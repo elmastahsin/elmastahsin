@@ -21,10 +21,10 @@
 </p>
 <!--
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=elmastahsin&show_icons=true&theme=transparent" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=elmastahsin&theme=transparent"/></p>
 
+-->
+
+<!--
 
 
 <br/>
