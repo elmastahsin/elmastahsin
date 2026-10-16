@@ -8,9 +8,6 @@
 - 🚀 Building **[Varlık](https://varlik.tahsinelmas.com)**: multi-asset portfolio tracker (crypto, FX, gold) with **Spring Boot + React Native**
 - 🤖 Shipped an **LLM-based email → CRM task automation** backend, live in production
 - 📈 Built a **LightGBM** model predicting maintenance resolution time (61K work orders, 112 features, 19.5 min MAE)
-- 🌱 I’m currently learning **Go** and **React Native**
-- 💬 Ask me about **Java**, **Spring Boot** and **ML/NLP**
-- 🤝 Open to **Java Backend Engineer** roles (Turkey / Europe remote)
 - 📫 How to reach me: **elmas.tahsin@metu.edu.tr** · [LinkedIn](https://linkedin.com/in/tahsinelmas)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
