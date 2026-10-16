@@ -6,6 +6,7 @@
 - 🎓 Graduated from **METU Computer Engineering** (2026)
 - 💼 Backend Developer & AI Training Specialist at **ITKraft** (LMS backend, B2B AI/software training)
 - 🚀 Building **[Varlık](https://varlik.tahsinelmas.com)**: multi-asset portfolio tracker (crypto, FX, gold) with **Spring Boot + React Native**
+- 💳 Built **todo-pay**: **Java** app that extracts due dates and amounts from credit card statements, keeps a payment ledger and schedules reminders, live
 - 🤖 Shipped an **LLM-based email → CRM task automation** backend, live in production
 - 📈 Built a **LightGBM** model predicting maintenance resolution time (61K work orders, 112 features, 19.5 min MAE)
 - 📫 How to reach me: **elmas.tahsin@metu.edu.tr** · [LinkedIn](https://linkedin.com/in/tahsinelmas)
